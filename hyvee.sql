@@ -35,8 +35,8 @@ VALUES ('Ground Beef 85/15', '1099', 'Beef', '16', 'oz', '2022-12-01', '69', 'Hy
 INSERT INTO `grocery_store`.`hyvee`
 VALUES ('Fresh Chicken Breasts', '998', 'Chicken', '32', 'oz', '2022-12-01', '31', 'Hy-Vee');
 
-INSERT INTO `grocery_store`.`aldi`
-VALUES ('Boneless Pork Chops', '1000', 'Pork', '40', 'oz', '2022-12-01', '25', 'Aldi');
+INSERT INTO `grocery_store`.`hyvee`
+VALUES ('Boneless Pork Chops', '1000', 'Pork', '40', 'oz', '2022-12-01', '25', 'Hy-Vee');
 
 
 

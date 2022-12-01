@@ -36,4 +36,4 @@ INSERT INTO `grocery_store`.`aldi`
 VALUES ('Fresh Chicken Breasts', '838', 'Chicken', '34', 'oz', '2022-12-01', '25', 'Kirkwood Fresh');
 
 INSERT INTO `grocery_store`.`aldi`
-VALUES ('Boneless Pork Chops', '558', 'Pork', '21', 'oz', '2022-12-01', '429', 'Aldi');
+VALUES ('Boneless Pork Chops', '558', 'Pork', '21', 'oz', '2022-12-01', '27', 'Aldi');
