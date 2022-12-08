@@ -1,0 +1,20 @@
+body {
+    background-color: powderblue;
+  }
+h1 {
+    text-align: center;
+    color: blue;
+  }
+th {
+	font-size: 35px;
+	padding-inline: 20px;
+}
+td {
+	font-size: 30px;
+	padding-inline: 10px;
+	text-align: center;
+}
+p {
+    text-align: left;
+    color: blue;
+  }
