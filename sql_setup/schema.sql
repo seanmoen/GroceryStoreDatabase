@@ -1,0 +1,1 @@
+CREATE SCHEMA grocery_store;
