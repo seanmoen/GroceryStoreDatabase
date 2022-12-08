@@ -11,7 +11,7 @@ Purpose: Commits an updated item to the database.
 <?php
 $host='localhost';
 $name ='root';
-$pwd='Earth3030!';
+$pwd='123456';
 $db='grocery_store';
 $con=mysqli_connect($host,$name,$pwd) or die("connection failed");
 mysqli_select_db($con, $db) or die("db selection failed");
