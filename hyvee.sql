@@ -27,7 +27,7 @@ INSERT INTO `grocery_store`.`hyvee`
 VALUES ('All Purpose Flour', '3.49', 'Baking', '80', 'oz', '2022-12-01', '0.04', 'Hy-Vee');
 
 INSERT INTO `grocery_store`.`hyvee`
-VALUES ('Granulated Sugar', '2.49', 'Baking', '64', 'oz', '2022-12-01', '0.04', 'That\'s Smart!');
+VALUES ('Granulated Sugar', '2.49', 'Baking', '64', 'oz', '2022-12-01', '0.04', 'Hy-Vee');
 
 INSERT INTO `grocery_store`.`hyvee`
 VALUES ('Ground Beef 85/15', '10.99', 'Beef', '16', 'oz', '2022-12-01', '0.69', 'Hy-Vee');
